@@ -1,0 +1,12 @@
+bo,bo,bo,bo,bo,bo,bo
+bl,bl,bl,bl,bl,bl,bo
+bo,bo,bo,bo,bo,bo,bo
+bl,bl,bl,bl,bl,bl,bo
+so,so,so,so,so,so,so
+sl,sl,sl,sl,sl,sl,sl
+so,so,so,so,so,so,so
+sl,sl,sl,sl,sl,sl,sl
+po,po,po,po,po,po,po
+pl,pl,pl,pl,pl,pl,pl
+po,po,po,po,po,po,po
+pl,pl,pl,pl,pl,pl,pl
