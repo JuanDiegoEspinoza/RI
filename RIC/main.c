@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "agregarDocumento.h"
+#include "agregarDocumento.h" 
 
 
 void main(){
@@ -7,7 +7,7 @@ void main(){
 
   printf("\n\n");
   printf("\t\t//////////////////////////////////////////////////////////\n");
-  printf("\t\t///////////////s////// MENU PRINCIPAL /////////////////////\n");
+  printf("\t\t///////////////////// MENU PRINCIPAL /////////////////////\n");
   printf("\t\t//////////////////////////////////////////////////////////\n");
   printf("\n\t\t Seleccione la operacion que desea realizar:\n\n");
   printf("\t\t (1) - Agregar Documento\n");

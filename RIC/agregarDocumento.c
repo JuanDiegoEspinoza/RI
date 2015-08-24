@@ -5,7 +5,7 @@
 
 //Metodo utilizado para agregar un nuevo documento a RIC
 //No tiene entradas
-//No tiene salidas
+//No tiene salidas 
 
 
 void agregarUnDocumento(){
